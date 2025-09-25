@@ -1,0 +1,13 @@
+section,status,slot_id,device,cta_key,image_url,alt_text,heading_text,subheading_text,store_slug,dest_url
+image,active,hero_left,desktop,best-sellers,,Shop Best Sellers,The best in cannabis is here.,Shop this fall's best selling cannabis.,,
+image,active,top_right,desktop,sale-all,,Shop Sale Items,Deals for everyone.,See what's on sale.,,
+image,active,bottom_right,desktop,campaign-sept,,Save On Wellness,,,,
+image,active,slide_1,mobile,best-sellers,,Shop Best Sellers,The best in cannabis is here.,Shop this fall's best selling cannabis.,,
+image,active,slide_2,mobile,sale-all,,Shop Sale Items,Deals for everyone.,See what's on sale.,,
+image,active,slide_3,mobile,campaign-sept,,Save On Wellness,,,,
+destination,active,hero_left,any,best-sellers,,Shop Best Sellers,The best in cannabis is here.,Shop this fall's best selling cannabis.,,
+destination,active,top_right,any,sale-all,,Shop Sale Items,Deals for everyone.,See what's on sale.,,
+destination,active,bottom_right,any,campaign-sept,,Save On Wellness,,,,
+destination,active,slide_1,any,best-sellers,,Shop Best Sellers,The best in cannabis is here.,Shop this fall's best selling cannabis.,,
+destination,active,slide_2,any,sale-all,,Shop Sale Items,Deals for everyone.,See what's on sale.,,
+destination,active,slide_3,any,campaign-sept,,Save On Wellness,,,,
